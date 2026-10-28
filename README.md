@@ -18,16 +18,23 @@ This project also gave me some hands-on experience with virtual networking, IP c
 
 ## Lab Configuration
 
-Virtual Machine - Kali Linux 2026.2 (64-bit) 
-Network Adapter - NAT Network 
-Network Name - NatNetwork 
-Network Subnet - 10.0.0.0/24 
-Kali Linux IP - 10.0.0.2/24 (Static) 
-Default Gateway - 10.0.0.1 
-DNS - 8.8.8.8, 1.1.1.1 
-Shared Folder - C:\KaliShared 
-Shared Clipboard - Bidirectional 
-Drag and Drop - Bidirectional 
+## Lab Configuration
+
+| Setting | Configuration |
+|---|---|
+| Host Operating System | Windows 11 |
+| Virtualization Platform | Oracle VirtualBox 7.2.22 |
+| Guest Operating System | Kali Linux 2026.2 (64-bit) |
+| Network Mode | NAT Network |
+| Network Name | NatNetwork |
+| Network Subnet | 10.0.0.0/24 |
+| Kali Linux Static IP | 10.0.0.2/24 |
+| Default Gateway | 10.0.0.1 |
+| DNS Servers | 8.8.8.8, 1.1.1.1 |
+| Shared Folder | C:\KaliShared |
+| Shared Clipboard | Bidirectional |
+| Drag and Drop | Bidirectional |
+| VM Snapshot | NetworkWalks-Week1-Lab-Setup |
 
 ## What I Did
 
