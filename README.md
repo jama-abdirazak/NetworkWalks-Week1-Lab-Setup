@@ -18,8 +18,6 @@ This project also gave me some hands-on experience with virtual networking, IP c
 
 ## Lab Configuration
 
-## Lab Configuration
-
 | Setting | Configuration |
 |---|---|
 | Host Operating System | Windows 11 |
